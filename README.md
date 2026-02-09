@@ -1,4 +1,4 @@
-# Cafe-Website ☕🌙
+# Café-Website ☕🌙
 
 A static website built as my first front-end project using HTML and CSS.
 
